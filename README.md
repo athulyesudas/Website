@@ -1,6 +1,3 @@
-### Forked from https://github.com/smaranjitghose/awesome-portfolio-websites
-
-
 <div align="center">
 
 <a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
@@ -20,3 +17,6 @@
 </div>
 
 A community maintained open source project aimed at making personal portfolio for researchers, developers and analysts simple, fast and less cumbersome. We make sure you have a full-fledged website to showcase your work while you can spend time on your learning and innovative endeavours.
+
+
+### Forked from https://github.com/smaranjitghose/awesome-portfolio-websites
